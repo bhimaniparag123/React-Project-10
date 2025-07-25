@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "509251",
+      "title": "Sanghavi & Sons",
+      "desc": "This is the story of Navneet Rai Sanghavi and his family, where love, tradition, and unity define their lives. When unforeseen challenges threaten their harmony, they must rely on resilience and togetherness to overcome them.",
+      "price": "640",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC44LzEwICA1MDkgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00428560-dfwschdsbl-portrait.jpg",
+      "category": "Action"
+    },
+    {
+      "id": "600465",
+      "title": "Bajirao Mastani",
+      "desc": "Jaspreet Singh takes the stage to talk about his wildest job yet - being a father! From navigating his innate irresponsible nature to the absurdities of modern parenting, Jaspreet weaves a show about men, fatherhood, love and loss. Bring your parents for this hour of hilarious (and vulnerable) encounters of self discovery :)",
+      "price": "550",
+      "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-grown-up-standup-comedy-show-by-jaspreet-singh-0-2025-6-29-t-16-21-14.jpg",
+      "category": "Comedy Show"
+    },
+    {
+      "id": "326618",
+      "title": "Not Today",
+      "desc": "Aliah Rupawala, a 24-year-old Bohri Muslim girl from a very traditional family, secretly becomes a suicide prevention counselor. On her first day she encounters a 52-year-old man about to jump from the terrace of a high-rise. As she begins to try to bring him down, she is forced to confront why she became a suicide prevention counsellor in the first place and also share a lot of herself to get him to share and open up.",
+      "price": "650",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:l-image,i-discovery-catalog@@icons@@bms_premiere_v1.png,t-false,lfo-bottom_left,l-end/et00449113-eplgdwrgsf-portrait.jpg",
+      "category": "Drama"
+    }
+  ]
+}
